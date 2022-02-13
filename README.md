@@ -1,4 +1,4 @@
-# random-hero-name
+# Random Hero Name
 
 ## Intro
 
